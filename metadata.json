@@ -1,6 +1,20 @@
 {
     "name": "Murph AI",
-    "symbol": "MURPH",
-    "description": "Murph AI Token",
-    "image": "https://github.com/gaussiangit/token/blob/main/logo.png"
+    "symbol": "MURPHAI",
+    "description": "AI Vision Agent token on Solana",
+    "image": "https://github.com/gaussiangit/token/blob/main/logo.png",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Custom Token"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://github.com/gaussiangit/token/blob/main/logo.png",
+                "type": "image/png"
+            }
+        ]
+    }
 }
